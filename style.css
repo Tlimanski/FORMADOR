@@ -15,6 +15,8 @@ background-color: #d1d3c2cb;
 }
 
 .img{
+    width: 200px;
+    height: 200px;
     margin: auto;
     display: block;
 }
